@@ -1,0 +1,226 @@
+{
+    "team": [
+        { "name": "Spenser", "title": "Frontend Engineer", "photo": "images/people/spenser.png" },
+        { "name": "Sam", "title": "CTO", "photo": "images/people/sam.jpg" },
+        { "name": "Monica", "title": "Head of Customer Success", "photo": "images/people/monica.jpg" },
+        { "name": "Kimberly", "title": "Director of Compliance", "photo": "images/people/kim.jpg" },
+        { "name": "Tyson", "title": "System Architect", "photo": "images/people/tyson.jpg" },
+        { "name": "Nick", "title": "Product Manager", "photo": "images/people/nick.jpg" },
+        { "name": "Zack", "title": "Software Engineer", "photo": "images/people/zack.jpg" },
+        { "name": "Jack", "title": "Managing Partner, Asia", "photo": "images/people/jack.jpg" },
+        { "name": "Mike", "title": "CEO, Co-founder", "photo": "images/people/mike.jpg" },
+        { "name": "Yanni", "title": "COO, Co-founder", "photo": "images/people/yanni.jpg" },
+        { "name": "Jin", "title": "Staff Accountant", "photo": "images/people/jin.jpg" },
+        { "name": "Daniel", "title": "Senior Software Engineer", "photo": "images/people/dan.jpg" },
+        { "name": "Jordan", "title": "Full Stack Engineer", "photo": "images/people/jordan.jpg" },
+        { "name": "Taylor", "title": "Product Designer", "photo": "images/people/taylor.jpg" },
+        { "name": "Paul", "title": "Account Executive", "photo": "images/people/paul.jpg" },
+        { "name": "Anthony", "title": "Senior Software Engineer", "photo": "images/people/anthony.jpg" },
+        { "name": "Javier", "title": "Financial Controller", "photo": "images/people/javier.png" },
+        { "name": "Mark", "title": "Business Development", "photo": "images/people/mark.png" },
+        { "name": "Candace", "title": "Business Development", "photo": "images/people/candace.jpg" },
+        { "name": "Neil", "title": "Growth Manager, Asia", "photo": "images/people/neil.png" },
+        { "name": "Richard", "title": "Director, APAC", "photo": "images/people/richard.png" },
+        { "name": "Fiona", "title": "Customer Experience Manager", "photo": "images/people/fiona.png" },
+        { "name": "Han", "title": "Content Marketing Manager", "photo": "images/people/han.png" },
+        { "name": "Dong", "title": "Payment Operations Manager", "photo": "images/people/dong.png" },
+        { "name": "Watts", "title": "Chief Morale Officer", "photo": "images/people/watts.png" },
+        { "name": "Chandler", "title": "Office Security Specialist", "photo": "images/people/chandler.png" },
+        { "name": "Stanley", "title": "Head of Sniffs", "photo": "images/people/stanley.png" },
+        { "name": "Miles", "title": "Chief Barketing Officer", "photo": "images/people/miles.png" },
+        { "name": "Pumpkin", "title": "Assistant to the Chief Morale Officer", "photo": "images/people/pumpkin.png" }
+    ],
+
+    "areas": {
+        "us": [
+            {   "name":"Alabama",
+                "ach": {"outbound": true, "inbound": false},
+                "wire": {"outbound": true, "inbound": true}
+            },
+            {   "name":"Alaska",
+                "ach": {"outbound": true, "inbound": false},
+                "wire": {"outbound": true, "inbound": true}
+            },
+            {   "name":"Arizona",
+                "ach": {"outbound": true, "inbound": false},
+                "wire": {"outbound": true, "inbound": true}
+            },
+            {   "name":"Arkansas",
+                "ach": {"outbound": true, "inbound": false},
+                "wire": {"outbound": true, "inbound": true}
+            },
+            {   "name":"California",
+                "ach": {"outbound": true, "inbound": false},
+                "wire": {"outbound": true, "inbound": true}
+            },
+            {   "name":"Colarado",
+                "ach": {"outbound": true, "inbound": false},
+                "wire": {"outbound": true, "inbound": true}
+            },
+            {   "name":"Connecticut",
+                "disabled": true
+            },
+            {   "name":"Delaware",
+                "ach": {"outbound": true, "inbound": false},
+                "wire": {"outbound": true, "inbound": true}
+            },
+            {   "name":"Florida",
+                "ach": {"outbound": true, "inbound": false},
+                "wire": {"outbound": true, "inbound": true}
+            },
+            {   "name":"Georgia",
+                "ach": {"outbound": true, "inbound": false},
+                "wire": {"outbound": true, "inbound": true}
+            },
+            {   "name":"Hawaii",
+                "disabled": true
+            },
+            {   "name":"Idaho",
+                "ach": {"outbound": true, "inbound": false},
+                "wire": {"outbound": true, "inbound": true}
+            },
+            {   "name":"Illinois",
+                "ach": {"outbound": true, "inbound": false},
+                "wire": {"outbound": true, "inbound": true}
+            },
+            {   "name":"Indiana",
+                "ach": {"outbound": true, "inbound": false},
+                "wire": {"outbound": true, "inbound": true}
+            },
+            {   "name":"Iowa",
+                "ach": {"outbound": true, "inbound": false},
+                "wire": {"outbound": true, "inbound": true}
+            },
+            {   "name":"Kansas",
+                "ach": {"outbound": true, "inbound": false},
+                "wire": {"outbound": true, "inbound": true}
+            },
+            {   "name":"Kentucky",
+                "ach": {"outbound": true, "inbound": false},
+                "wire": {"outbound": true, "inbound": true}
+            },
+            {   "name":"Louisiana",
+                "ach": {"outbound": true, "inbound": false},
+                "wire": {"outbound": true, "inbound": true}
+            },
+            {   "name":"Maine",
+                "ach": {"outbound": true, "inbound": false},
+                "wire": {"outbound": true, "inbound": true}
+            },
+            {   "name":"Maryland",
+                "ach": {"outbound": true, "inbound": false},
+                "wire": {"outbound": true, "inbound": true}
+            },
+            {   "name":"Massachusetts",
+                "ach": {"outbound": true, "inbound": false},
+                "wire": {"outbound": true, "inbound": true}
+            },
+            {   "name":"Michigan",
+                "ach": {"outbound": true, "inbound": false},
+                "wire": {"outbound": true, "inbound": true}
+            },
+            {   "name":"Minnesota",
+                "ach": {"outbound": true, "inbound": false},
+                "wire": {"outbound": true, "inbound": true}
+            },
+            {   "name":"Mississippi",
+                "ach": {"outbound": true, "inbound": false},
+                "wire": {"outbound": true, "inbound": true}
+            },
+            {   "name":"Missouri",
+                "ach": {"outbound": true, "inbound": false},
+                "wire": {"outbound": true, "inbound": true}
+            },
+            {   "name":"Montana",
+                "ach": {"outbound": true, "inbound": false},
+                "wire": {"outbound": true, "inbound": true}
+            },
+            {   "name":"Nebraska",
+                "ach": {"outbound": true, "inbound": false},
+                "wire": {"outbound": true, "inbound": true}
+            },
+            {   "name":"Nevada",
+                "ach": {"outbound": true, "inbound": false},
+                "wire": {"outbound": true, "inbound": true}
+            },
+            {   "name":"New Hampshire",
+                "disabled": true
+            },
+            {   "name":"New Jersey",
+                "ach": {"outbound": true, "inbound": false},
+                "wire": {"outbound": true, "inbound": true}
+            },
+            {   "name":"New Mexico",
+                "ach": {"outbound": true, "inbound": false},
+                "wire": {"outbound": true, "inbound": true}
+            },
+            {   "name":"New York",
+                "disabled": true
+            },
+            {   "name":"North Carolina",
+                "disabled": true
+            },
+            {   "name":"North Dakota",
+                "disabled": true
+            },
+            {   "name":"Ohio",
+                "ach": {"outbound": true, "inbound": false},
+                "wire": {"outbound": true, "inbound": true}
+            },
+            {   "name":"Oregon",
+                "disabled": true
+            },
+            {   "name":"Oklahoma",
+                "ach": {"outbound": true, "inbound": false},
+                "wire": {"outbound": true, "inbound": true}
+            },
+            {   "name":"Pennsylvania",
+                "ach": {"outbound": true, "inbound": false},
+                "wire": {"outbound": true, "inbound": true}
+            },
+            {   "name":"Rhode Island",
+                "ach": {"outbound": true, "inbound": false},
+                "wire": {"outbound": true, "inbound": true}
+            },
+            {   "name":"South Carolina",
+                "ach": {"outbound": true, "inbound": false},
+                "wire": {"outbound": true, "inbound": true}
+            },
+            {   "name":"South Dakota",
+                "disabled": true
+            },
+            {   "name":"Tennessee",
+                "ach": {"outbound": true, "inbound": false},
+                "wire": {"outbound": true, "inbound": true}
+            },
+            {   "name":"Texas",
+                "ach": {"outbound": true, "inbound": false},
+                "wire": {"outbound": true, "inbound": true}
+            },
+            {   "name":"Utah",
+                "ach": {"outbound": true, "inbound": false},
+                "wire": {"outbound": true, "inbound": true}
+            },
+            {   "name":"Vermont",
+                "disabled": true
+            },
+            {   "name":"Virginia",
+                "disabled": true
+            },
+            {   "name":"Washington",
+                "disabled": true
+            },
+            {   "name":"West Virginia",
+                "ach": {"outbound": true, "inbound": false},
+                "wire": {"outbound": true, "inbound": true}
+            },
+            {   "name":"Wisconsin",
+                "ach": {"outbound": true, "inbound": false},
+                "wire": {"outbound": true, "inbound": true}
+            },
+            {   "name":"Wyoming",
+                "disabled": true
+            }
+        ]
+    }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "static-boilerplate",
+  "version": "1.0.0",
+  "private": true,
+  "main": "index.html",
+  "scripts": {
+    "start": "gulp",
+    "deploy": "./bin/deploy"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "babelify": "^7.3.0",
+    "browser-sync": "^2.18.13",
+    "browserify": "^14.4.0",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^4.0.0",
+    "gulp-browserify": "^0.5.1",
+    "gulp-clean-css": "^3.9.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-hb": "^6.0.2",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^3.1.0",
+    "gulp-sourcemaps": "^2.6.1"
+  }
+}

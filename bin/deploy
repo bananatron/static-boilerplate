@@ -1,0 +1,14 @@
+#!/usr/bin/env bash
+echo "🏮 Deploying to gh-pages branch!"
+
+now=`date +"%m_%d_%Y %s"`
+deploy_branch="gh-pages"
+
+git branch -D $deploy_branch
+git push origin --delete $deploy_branch
+git checkout -b $deploy_branch
+git add target -f
+git commit -m "Site update $now"
+git subtree push --prefix target origin $deploy_branch
+git checkout master
+git branch -D $deploy_branch
